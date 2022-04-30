@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/order_mgmt
+    username: root
+    password: tjdgus12
+
+server:
+  port: 3030
